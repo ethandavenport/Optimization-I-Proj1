@@ -11,7 +11,7 @@
 ## Download any created csv or other files and re-commit those manually.
 
 
-| Task                               | What                                                                                                                                                     | File/Notebook   | Done by | Date  | Notes |
+| Task                               | Description                                                                                                                                                     | File/Notebook   | Done by | Date  | Notes |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|---------|-------|------------|
 | **2. Optimal 2019 Portfolio**      | Find the portfolio that minimizes the daily average CVaR using the 2019 data. Use β = 0.95 and R = 0.02%.                                                | optimizer.ipynb | Ethan   | 9/19  |      Someone please double check this!!      |
 | **2a. 2020 CVaR**                  | Recompute the 95%-CVaR for 2020 by evaluating the CVaR objective using the 2019-optimized x and 2020 returns.                                            |                 |         |       |            |
