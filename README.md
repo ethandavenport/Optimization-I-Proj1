@@ -5,7 +5,6 @@
 | Notebook        | Colab |
 |-----------------|-------|
 | `optimizer.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethandavenport/Optimization-I-Proj1/blob/main/optimizer.ipynb) |
-| `monthly.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethandavenport/Optimization-I-Proj1/blob/main/monthly.ipynb) |
 
 
 ## In colab, if you make changes to notebooks, use "save in github" at the top of the page to re-commit.
